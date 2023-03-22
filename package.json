@@ -12,6 +12,7 @@
   "author": "Pamela",
   "license": "ISC",
   "dependencies": {
+    "@babel/runtime": "^7.21.0",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "express-handlebars": "^7.0.2",
